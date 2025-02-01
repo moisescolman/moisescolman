@@ -10,6 +10,15 @@ Desarrollador Web Full Stack Junior con una sólida base en diseño gráfico y m
 
 ## 🌟 Proyectos Destacados
 
+### ** [Proyecto Tienda Online](https://heartfelt-cat-19391e.netlify.app/)**
+#### [Repositorio:](https://github.com/moisescolman/GHARI_proyecto_tienda_online)
+- Desarrollo de una tienda en línea completa que permite a los usuarios navegar por productos, añadirlos al carrito y realizar compras.
+- **Características principales:**
+  - Gestión de catálogo de productos.
+  - Sistema de autenticación y perfiles de usuario.
+  - Diseño responsivo para una experiencia óptima en dispositivos móviles.
+- **Tecnologías utilizadas:** HTML, CSS, JavaScript, Figma.
+
 ### ** [Web Deportiva](https://moisescolman.github.io/proyecto_web_deportiva/)**  
 - Desarrollo de una plataforma centrada en contenido deportivo con diseño UX/UI optimizado.
 - **Tecnologías utilizadas:** HTML, CSS, Figma.
