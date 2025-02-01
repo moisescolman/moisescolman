@@ -20,6 +20,7 @@ Desarrollador Web Full Stack Junior con una sólida base en diseño gráfico y m
 - **Tecnologías utilizadas:** HTML, CSS, JavaScript, Figma.
 
 ### ** [Web Deportiva](https://moisescolman.github.io/proyecto_web_deportiva/)**  
+#### [Ir al repositorio](https://github.com/moisescolman/BilboGreen_web_semantica) 
 - Desarrollo de una plataforma centrada en contenido deportivo con diseño UX/UI optimizado.
 - **Tecnologías utilizadas:** HTML, CSS, Figma.
 
