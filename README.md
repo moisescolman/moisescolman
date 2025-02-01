@@ -11,7 +11,7 @@ Desarrollador Web Full Stack Junior con una sólida base en diseño gráfico y m
 ## 🌟 Proyectos Destacados
 
 ### ** [Proyecto Tienda Online](https://heartfelt-cat-19391e.netlify.app/)**
-#### [Ir al repositorio](https://github.com/moisescolman/GHARI_proyecto_tienda_online)
+#### [[>Ir al repositorio<]](https://github.com/moisescolman/GHARI_proyecto_tienda_online)
 - Desarrollo de una tienda en línea completa que permite a los usuarios navegar por productos, añadirlos al carrito y realizar compras.
 - **Características principales:**
   - Gestión de catálogo de productos.
@@ -20,11 +20,12 @@ Desarrollador Web Full Stack Junior con una sólida base en diseño gráfico y m
 - **Tecnologías utilizadas:** HTML, CSS, JavaScript, Figma.
 
 ### ** [Web Deportiva](https://moisescolman.github.io/proyecto_web_deportiva/)**  
-#### [Ir al repositorio](https://github.com/moisescolman/BilboGreen_web_semantica) 
+#### [[>Ir al repositorio<]](https://github.com/moisescolman/proyecto_web_deportiva) 
 - Desarrollo de una plataforma centrada en contenido deportivo con diseño UX/UI optimizado.
 - **Tecnologías utilizadas:** HTML, CSS, Figma.
 
 ### ** [BilboGreen](https://moisescolman.github.io/BilboGreen_web_semantica/)**  
+#### [[>Ir al repositorio<]](https://github.com/moisescolman/BilboGreen_web_semantica) 
 - Proyecto enfocado en la sostenibilidad y el medio ambiente con funcionalidades de búsqueda semántica.
 - **Tecnologías utilizadas:** HTML, CSS, IA, Figma.
 
