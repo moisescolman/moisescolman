@@ -11,8 +11,8 @@ Desarrollador Web **Full Stack Junior** con una sólida base en diseño gráfico
 ## 🌟 Proyectos Destacados
 
 ### 🎯 [Calendula](https://moisescolman.github.io/Calendula_frontend/)
-#### [>>> Ver repositorio](https://github.com/moisescolman/Calendula_frontend) 
 > Aplicación completa para la planificación y marcado de turnos por usuario.
+#### [>>> Ver repositorio](https://github.com/moisescolman/Calendula_frontend) 
 
 - **Frontend:** HTML, CSS, JavaScript vanilla.
 - **Backend:** Flask + SQLite ([ver backend](https://github.com/moisescolman/Calendula_backend))
@@ -25,7 +25,7 @@ Desarrollador Web **Full Stack Junior** con una sólida base en diseño gráfico
 ---
 
 ### 💸 [Fintastical](https://github.com/moisescolman/Fintastical_proyecto_vue3)
-> Proyecto de finanzas personales desarrollado con Vue 3.
+> Proyecto de finanzas y análisis de inversiones hechas en bolsa de valores desarrollado con Vue 3.
 
 - **Tecnologías:** Vue 3, Pinia, Vite, CSS Modules.
 - **Características:**
@@ -36,8 +36,8 @@ Desarrollador Web **Full Stack Junior** con una sólida base en diseño gráfico
 ---
 
 ### 🛍️ [Tienda Online](https://heartfelt-cat-19391e.netlify.app/)
+> E-commerce de relojes completo con catálogo, carrito y sistema de usuario.
 #### [>>> Ver repositorio](https://github.com/moisescolman/GHARI_proyecto_tienda_online)
-> E-commerce completo con catálogo, carrito y sistema de usuario.
 
 - **Tecnologías:** HTML, CSS, JavaScript.
 - **Características:**
@@ -48,8 +48,8 @@ Desarrollador Web **Full Stack Junior** con una sólida base en diseño gráfico
 ---
 
 ### ⚽ [Web Deportiva](https://moisescolman.github.io/proyecto_web_deportiva/)
+> Portal centrado en contenido de una asociación deportiva.
 #### [>>> Ver repositorio](https://github.com/moisescolman/proyecto_web_deportiva)
-> Portal centrado en contenido deportivo.
 
 - **Tecnologías:** HTML, CSS, Figma.
 - **Enfoque:** UX/UI responsivo, organización visual de secciones deportivas.
@@ -57,8 +57,8 @@ Desarrollador Web **Full Stack Junior** con una sólida base en diseño gráfico
 ---
 
 ### 🌱 [BilboGreen](https://moisescolman.github.io/BilboGreen_web_semantica/)
+> Proyecto web estático y semántico sobre sostenibilidad, reciclaje y medioambiente.
 #### [>>> Ver repositorio](https://github.com/moisescolman/BilboGreen_web_semantica)
-> Proyecto web semántico sobre sostenibilidad y medioambiente.
 
 - **Tecnologías:** HTML, CSS, conceptos de IA y semántica, Figma.
 
