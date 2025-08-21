@@ -67,7 +67,7 @@ Desarrollador Web **Full Stack Junior** con una sólida base en diseño gráfico
 ## 💻 Stack Tecnológico
 
 ### **Desarrollo Web**
-![HTML](https://img.shields.io/badge/-HTML-111126?style=for-the-badge&logo=html5&logoColor=white)
+![HTML](https://github.com/moisescolman/moisescolman/blob/main/assets/badges/html.png)
 ![CSS](https://img.shields.io/badge/-CSS-111126?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-111126?style=for-the-badge&logo=javascript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-111126?style=for-the-badge&logo=vue.js&logoColor=white)
