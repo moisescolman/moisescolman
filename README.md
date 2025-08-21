@@ -47,7 +47,7 @@ Desarrollador Web **Full Stack Junior** con una sólida base en diseño gráfico
 
 ---
 
-### ⚽ [Web Deportiva](https://moisescolman.github.io/proyecto_web_deportiva/)
+### 🎾 [Web Deportiva](https://moisescolman.github.io/proyecto_web_deportiva/)
 > Portal centrado en contenido de una asociación deportiva.
 #### [>>> Ver repositorio](https://github.com/moisescolman/proyecto_web_deportiva)
 
