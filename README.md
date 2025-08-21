@@ -36,7 +36,7 @@ Desarrollador Web **Full Stack Junior** con una sólida base en diseño gráfico
 ---
 
 ### 🛍️ [Tienda Online](https://heartfelt-cat-19391e.netlify.app/)
-#### [[>Ir al repositorio<]](https://github.com/moisescolman/GHARI_proyecto_tienda_online)
+#### [>>> Ver repositorio](https://github.com/moisescolman/GHARI_proyecto_tienda_online)
 > E-commerce completo con catálogo, carrito y sistema de usuario.
 
 - **Tecnologías:** HTML, CSS, JavaScript.
@@ -48,7 +48,7 @@ Desarrollador Web **Full Stack Junior** con una sólida base en diseño gráfico
 ---
 
 ### ⚽ [Web Deportiva](https://moisescolman.github.io/proyecto_web_deportiva/)
-#### [[>Ir al repositorio<]](https://github.com/moisescolman/proyecto_web_deportiva)
+#### [>>> Ver repositorio](https://github.com/moisescolman/proyecto_web_deportiva)
 > Portal centrado en contenido deportivo.
 
 - **Tecnologías:** HTML, CSS, Figma.
@@ -57,7 +57,7 @@ Desarrollador Web **Full Stack Junior** con una sólida base en diseño gráfico
 ---
 
 ### 🌱 [BilboGreen](https://moisescolman.github.io/BilboGreen_web_semantica/)
-#### [[>Ir al repositorio<]](https://github.com/moisescolman/BilboGreen_web_semantica)
+#### [>>> Ver repositorio](https://github.com/moisescolman/BilboGreen_web_semantica)
 > Proyecto web semántico sobre sostenibilidad y medioambiente.
 
 - **Tecnologías:** HTML, CSS, conceptos de IA y semántica, Figma.
@@ -71,6 +71,8 @@ Desarrollador Web **Full Stack Junior** con una sólida base en diseño gráfico
 ![CSS](https://img.shields.io/badge/-CSS-111126?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-111126?style=for-the-badge&logo=javascript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-111126?style=for-the-badge&logo=vue.js&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-111126?style=for-the-badge&logo=sqlite&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-111126?style=for-the-badge&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-111126?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-111126?style=for-the-badge&logo=github&logoColor=white)
 
@@ -82,8 +84,6 @@ Desarrollador Web **Full Stack Junior** con una sólida base en diseño gráfico
 ### **Otras Tecnologías**
 ![WordPress](https://img.shields.io/badge/-WordPress-111126?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Scrum](https://img.shields.io/badge/-Scrum-111126?style=for-the-badge&logo=scrum&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-111126?style=for-the-badge&logo=sqlite&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-111126?style=for-the-badge&logo=flask&logoColor=white)
 
 ---
 
