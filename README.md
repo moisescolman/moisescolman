@@ -11,7 +11,7 @@ Desarrollador Web **Full Stack Junior** con una sólida base en diseño gráfico
 ## 🌟 Proyectos Destacados
 
 ### 📅 [Calendula](https://moisescolman.github.io/Calendula_frontend/)
-> Aplicación completa para la planificación y marcado de turnos por usuario.
+> Aplicación completa con calendario para la planificación y marcado de turnos por usuario. Enfocado a profesionales sanitarios.
 #### [>>> Ver repositorio](https://github.com/moisescolman/Calendula_frontend) 
 
 - **Frontend:** HTML, CSS, JavaScript vanilla.
