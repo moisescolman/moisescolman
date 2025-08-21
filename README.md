@@ -68,8 +68,8 @@ Desarrollador Web **Full Stack Junior** con una sólida base en diseño gráfico
 
 ### **Desarrollo Web**
 ![HTML](https://github.com/moisescolman/moisescolman/blob/main/assets/badges/html.png)
-![CSS](https://img.shields.io/badge/-CSS-111126?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-111126?style=for-the-badge&logo=javascript&logoColor=white)
+![CSS](https://github.com/moisescolman/moisescolman/blob/main/assets/badges/css.png)
+![JavaScript](https://github.com/moisescolman/moisescolman/blob/main/assets/badges/javascript.png)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-111126?style=for-the-badge&logo=vue.js&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-111126?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-111126?style=for-the-badge&logo=flask&logoColor=white)
