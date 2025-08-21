@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/moisescolman/moisescolman/blob/main/assets/github_header2.png" alt="Encabezado" width="1000">
+  <img src="https://raw.githubusercontent.com/moisescolman/moisescolman/refs/heads/main/assets/github_header2.png" alt="Encabezado" width="1000">
 </p>
 
 # 👋 ¡Hola! Soy Moisés
