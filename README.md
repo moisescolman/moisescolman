@@ -12,10 +12,11 @@ Desarrollador Web **Full Stack Junior** con una sólida base en diseño gráfico
 
 ### 📅 [Calendula](https://moisescolman.github.io/Calendula_frontend/)
 > Aplicación completa con calendario para la planificación y marcado de turnos por usuario. Enfocado a profesionales sanitarios.
-#### [>>> Ver repositorio](https://github.com/moisescolman/Calendula_frontend) 
+#### [>>> Ver repositorio frontend](https://github.com/moisescolman/Calendula_frontend) 
+#### [>>> Ver repositorio backend](https://github.com/moisescolman/Calendula_backend) 
 
 - **Frontend:** HTML, CSS, JavaScript vanilla.
-- **Backend:** Flask + SQLite ([ver backend](https://github.com/moisescolman/Calendula_backend))
+- **Backend:** Python + Flask + SQLite
 - **Características:**
   - Registro e inicio de sesión por sesión.
   - Creación y gestión de turnos personalizados.
@@ -24,8 +25,9 @@ Desarrollador Web **Full Stack Junior** con una sólida base en diseño gráfico
 
 ---
 
-### 💸 [Fintastical](https://github.com/moisescolman/Fintastical_proyecto_vue3)
+### 💸 Fintastical
 > Proyecto de finanzas y análisis de inversiones hechas en bolsa de valores desarrollado con Vue 3.
+#### [>>> Ver repositorio](https://github.com/moisescolman/Fintastical_proyecto_vue3)
 
 - **Tecnologías:** Vue 3, Pinia, Vite, CSS Modules.
 - **Características:**
