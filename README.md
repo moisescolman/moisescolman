@@ -70,20 +70,20 @@ Desarrollador Web **Full Stack Junior** con una sólida base en diseño gráfico
 ![HTML](https://github.com/moisescolman/moisescolman/blob/main/assets/badges/html.png)
 ![CSS](https://github.com/moisescolman/moisescolman/blob/main/assets/badges/css.png)
 ![JavaScript](https://github.com/moisescolman/moisescolman/blob/main/assets/badges/javascript.png)
-![Vue.js](https://img.shields.io/badge/-Vue.js-111126?style=for-the-badge&logo=vue.js&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-111126?style=for-the-badge&logo=sqlite&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-111126?style=for-the-badge&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-111126?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-111126?style=for-the-badge&logo=github&logoColor=white)
+![Vue.js](https://github.com/moisescolman/moisescolman/blob/main/assets/badges/vue.png)
+![SQLite](https://github.com/moisescolman/moisescolman/blob/main/assets/badges/sqlite.png)
+![Python](https://github.com/moisescolman/moisescolman/blob/main/assets/badges/python.png)
+![Git](https://github.com/moisescolman/moisescolman/blob/main/assets/badges/git.png)
+![GitHub](https://github.com/moisescolman/moisescolman/blob/main/assets/badges/github.png)
 
 ### **Diseño Gráfico**
-![Photoshop](https://img.shields.io/badge/-Photoshop-111126?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/-Illustrator-111126?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-111126?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://github.com/moisescolman/moisescolman/blob/main/assets/badges/photoshop.png)
+![Illustrator](https://github.com/moisescolman/moisescolman/blob/main/assets/badges/illustrtor.png)
+![Figma](https://github.com/moisescolman/moisescolman/blob/main/assets/badges/figma.png)
 
 ### **Otras Tecnologías**
-![WordPress](https://img.shields.io/badge/-WordPress-111126?style=for-the-badge&logo=wordpress&logoColor=white)
-![Scrum](https://img.shields.io/badge/-Scrum-111126?style=for-the-badge&logo=scrum&logoColor=white)
+![WordPress](https://github.com/moisescolman/moisescolman/blob/main/assets/badges/wordpress.png)
+![Scrum](https://github.com/moisescolman/moisescolman/blob/main/assets/badges/scrum.png)
 
 ---
 
