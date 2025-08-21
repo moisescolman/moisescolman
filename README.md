@@ -81,6 +81,9 @@ Desarrollador Web **Full Stack Junior** con una sólida base en diseño gráfico
 ### **Diseño Gráfico**
 ![Photoshop](https://github.com/moisescolman/moisescolman/blob/main/assets/badges/photoshop.png)
 ![Illustrator](https://github.com/moisescolman/moisescolman/blob/main/assets/badges/illustrtor.png)
+![Lightroom](https://github.com/moisescolman/moisescolman/blob/main/assets/badges/lightroom.png)
+![After Effects](https://github.com/moisescolman/moisescolman/blob/main/assets/badges/after.png)
+![Indesign](https://github.com/moisescolman/moisescolman/blob/main/assets/badges/indesign.png)
 ![CorelDraw](https://github.com/moisescolman/moisescolman/blob/main/assets/badges/corel.png)
 
 ### **Otras Tecnologías**
@@ -90,6 +93,7 @@ Desarrollador Web **Full Stack Junior** con una sólida base en diseño gráfico
 ![Jira](https://github.com/moisescolman/moisescolman/blob/main/assets/badges/jira.png)
 ![Odoo](https://github.com/moisescolman/moisescolman/blob/main/assets/badges/odoo.png)
 ![XML](https://github.com/moisescolman/moisescolman/blob/main/assets/badges/xml.png)
+![XPath](https://github.com/moisescolman/moisescolman/blob/main/assets/badges/xpath.png)
 
 ---
 
